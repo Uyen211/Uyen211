@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, mình là Phương Uyên 👋
 
 🎓 Sinh viên năm cuối ngành **Kỹ thuật Phần mềm** tại **Đại học Thủy Lợi** (GPA: **3.77/4.0** ⭐).  
-🔍 Mình tập trung nghiên cứu sâu về **NLP & Large Language Models (LLMs), AI Agent**, hướng đến việc lấp đầy các khoảng trống nghiên cứu và tạo ra những giải pháp thiết thực, có giá trị ứng dụng cho xã hội.
+🔍 Mình tập trung nghiên cứu sâu về **NLP & Large Language Models (LLMs), AI Agent**, hướng đến việc lấp đầy các khoảng trống nghiên cứu trong các bài toán thực tế và tạo ra những giải pháp thiết thực, có giá trị ứng dụng cho xã hội.
 
 ---
 
